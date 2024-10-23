@@ -1,1 +1,1 @@
-we are updating the file.txt and then pushing it on the remote repository
+This is is updated from the github application to pull it from the remote repository
